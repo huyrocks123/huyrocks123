@@ -1,7 +1,10 @@
 # <a href="https://www.linkedin.com/in/huy-t-892a51317/">Huy Tang</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Hackers don’t sleep — and neither does my curiosity. I’m Huy Tang, a cybersecurity professional obsessed with understanding threats before they strike. Through real-world experience and personal projects, I turn theory into action by hunting threats, closing vulnerabilities, and building secure systems that can stand up to modern attacks.
 
+Here, you’ll find hands-on projects that showcase my work in vulnerability management, incident response, and threat detection using tools like Tenable, Microsoft Sentinel, Defender for Endpoint, and PowerShell automation. Whether I’m reducing attack surfaces or scripting my way to faster remediation, my focus is simple: protect what matters.
+
+If you’re looking for someone who can combine deep technical skill with a proactive security mindset, dive in — the work speaks for itself.
 
 ## ⚠️ Vulnerability Management Projects
 
