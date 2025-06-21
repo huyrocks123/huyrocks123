@@ -10,7 +10,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/huyrocks123/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Suspicious Use of whoami and net user)](https://github.com/huyrocks123/threat-hunting-scenario-whoami-and-netuser)**
+- **[Threat Hunting Scenario (Unauthorized AnyDesk Installation)](https://github.com/huyrocks123/threat-hunting-scenario-anydesk)**
+- **[Threat Hunting Scenario (Unauthorized Scheduled Task Persistence)](https://github.com/huyrocks123/threat-hunting-scenario-task-scheduler)**
+- **[Threat Hunting Scenario (Suspicious User Account Creation)](https://github.com/huyrocks123/threat-hunting-scenario-suspicious-user-account-creation)**
+- **[Threat Hunting Scenario (Suspicious Use of Certutil to Base64 Encode a Payload)](https://github.com/huyrocks123/threat-hunting-scenario-suspicious-use-of-certutil-to-base64-encode-a-payload)**
+- **[Threat Hunting Scenario (Suspicious Creation of Hidden Folder and File)](https://github.com/huyrocks123/threat-hunting-scenario-suspicious-creation-of-hidden-folder-and-file)**
+- **[Threat Hunting Scenario (Unauthorized Use of Built-in Remote Assistance Tools)](https://github.com/huyrocks123/threat-hunting-scenario-unauthorized-use-of-built-in-remote-assistance-tools)**
 
 <hr/>
 
